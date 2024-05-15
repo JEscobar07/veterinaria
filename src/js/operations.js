@@ -8,3 +8,8 @@ function calculateAge(dateOfBirth) {
     }
     return age;
 }
+
+
+function deletePet() {
+    alert("elimino masco")
+}
