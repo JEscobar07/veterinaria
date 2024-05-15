@@ -11,6 +11,7 @@ function calculateAge(dateOfBirth) {
 
 
 function deletePet() {
+    alert("otra alerta")
     alert("elimino masco")
     alert("otra alerta")
 }
